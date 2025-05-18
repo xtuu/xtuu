@@ -2,7 +2,7 @@
 
 ## Acerca de mi
 
-Soy un desarrollador Frontend con experiencia en JavaScript, TypeScript. Mis frameworks favoritos son Reactjs, Angular y TailwindsCSS.
+Soy un desarrollador Full Stack con experiencia en JavaScript, TypeScript, Java. 
 
 En mi tiempo libre, me gusta jugar futbol ⚽️, salir 🚶‍♂️ y comer 🍔.
 
